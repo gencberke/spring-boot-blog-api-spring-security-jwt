@@ -111,7 +111,6 @@ src/main/java/com/berkedev/springbootblogapi/
 ```
 
 ## 🎓 What I Learned in This Project
-
 ### 🔐 Spring Security & JWT Authentication
 
 #### **1. JWT (JSON Web Token) Implementation**
